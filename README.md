@@ -1,1 +1,1 @@
-# https-github.com-jakaprayudha-flutter-ppdb
+# flutter-ppdb
